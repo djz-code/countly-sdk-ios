@@ -15,7 +15,7 @@
 #endif
 
 #ifndef COUNTLY_PREFER_IDFA
-#define COUNTLY_PREFER_IDFA 0
+#define COUNTLY_PREFER_IDFA 1
 #endif
 
 #if COUNTLY_DEBUG
